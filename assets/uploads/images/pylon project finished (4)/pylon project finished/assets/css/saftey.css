@@ -1,0 +1,171 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+    
+
+
+/* about us page */
+
+.safteyjcbbackground{
+    background-image: url(/Assets/uploads/Images/saftey\ image.jpg);
+    background-size:cover;
+   background-position:left;
+   background-repeat: no-repeat;
+   height: 60vh;
+   text-align: center;
+   
+}
+.safteyjcbheading{
+    color: white;
+    padding-top: 140px;
+    font-size: 50px;
+}
+
+.safteyjcb-a{
+    color: white;
+    text-decoration: none;
+    font-size:x-large;
+    
+    
+}
+/* mouse over link */
+a:hover {
+    color: rgb(250, 71, 6)
+}
+.safteyjcbtop{
+    font-size: x-large;
+    padding-top:10px;
+    padding-left: 400px;
+    display: flex;
+    color: white ;
+}
+.safteypra{
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 50px;
+    margin-bottom: 80px;
+    font-size: x-large;
+    text-align: justify;
+}
+.praoldiv{
+    margin-left: 140px;
+    margin-bottom: 200px;
+    font-size: x-large;
+    margin-top: -50px;
+    text-align: justify;
+}
+
+
+
+
+/* laptop 1025 view start */
+
+
+@media screen and (max-width: 1024px) and (min-width:769px){
+
+    .safteyjcbbackground{
+        width: 1025px;
+    }
+    .safteyjcbheading{
+        font-size: 42px;
+    }
+    .safteyjcbtop{
+        font-size: 15px;
+    }
+    .safteyjcb-a{
+        font-size: 15px;
+        margin-left: -60px;
+    }
+    /* mouse over link */
+    a:hover {
+    color: rgb(250, 71, 6)
+    }
+    .safteypra{
+        font-size: 22px;
+    }
+    .praoldiv{
+        font-size: 22px;
+    }
+}
+/* laptop 1025 view end */
+
+
+/* tablet 769 view start */
+
+
+@media screen and (max-width: 769px) and (min-width:426px){
+
+    .safteyjcbbackground{
+        width: 769px;
+    }
+    .safteyjcbheading{
+        font-size: 34px;
+    }
+    .safteyjcbtop{
+        font-size: 15px;
+    }
+    .safteyjcb-a{
+        font-size: 15px;
+        margin-left: -200px;
+    }
+    /* mouse over link */
+    a:hover {
+    color: rgb(250, 71, 6)
+    }
+    .safteypra{
+        font-size: 22px;
+    }
+    .praoldiv{
+        font-size: 22px;
+    }
+
+}
+
+/* tablet 769 view end */
+
+
+/* mobile 426 view start */
+
+
+@media screen and (max-width: 426px){
+
+    .safteyjcbbackground{
+        width: 426px;
+    }
+    .safteyjcbheading{
+        font-size: 34px;
+    }
+    .prap12{
+        padding-top: 20px;
+        margin-left: -150px;
+        font-size: 15px;
+    }
+    .safteyjcb-a{
+        font-size: 15px;
+        margin-left: -200px;
+
+    }
+    /* mouse over link */
+    a:hover {
+    color: rgb(250, 71, 6)
+    }
+    .safteypra{
+        font-size: 22px;
+        margin-left: 25px;
+        margin-right: 25px;
+    }
+    .praoldiv{
+        font-size: 22px;
+        margin-left: 50px;
+        margin-right: 25px;
+    }
+
+}
+
+
+
+
+

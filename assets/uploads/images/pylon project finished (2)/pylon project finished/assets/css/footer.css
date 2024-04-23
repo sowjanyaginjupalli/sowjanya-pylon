@@ -1,0 +1,328 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+}
+
+
+.foot{/*total section */
+    background-color:black;
+    display: inline-flex;
+    width: 100%;
+    height: 80vh;
+    padding-top: 50px;
+    margin-top: 80px;
+    
+}
+.saifoot{/*1st section */
+    display: block;
+    color: white;
+    padding-left: 50px;
+}
+.saiimg>a.img{
+width: 20px;
+height:20px;
+}
+.sailink{/*2nd section */
+    
+    margin-top: 10px;
+    padding: 10px;
+    
+    
+}
+.sailink2{
+    margin-top: 10px;
+    padding: 10px;
+    
+}
+.sailink2>ul{
+    list-style-type: none;
+    
+}
+div>h2{
+    color: white;
+}
+.sailink1{
+    display: block;
+    margin-top: 30px;
+    padding-left: 50px;
+    
+
+}
+.saiimg1{
+    display: block;
+    color: white;
+    margin-top: 30px;
+    padding-left: 120px;
+    
+}
+.imgs{
+    color: white;
+    
+    
+}
+.saimap{
+    margin-top: 35px;
+    padding-left: 50px;
+}
+.saitable{
+    display: flex;
+    margin-top: 10px;
+    padding-left: 20px;
+    
+}
+.sailink>ul{
+    list-style-type: none;
+}
+.sailink>ul>li>a{
+    text-decoration: none;
+    color:  rgb(98, 100, 212);
+}
+.sailink2>ul>li>a{
+    text-decoration: none;
+    color:  rgb(98, 100, 212);
+}
+.saih{
+    padding-left: 15px;
+}
+ .saiimg>a>img{
+    padding-left: 10px;
+    height: 30px;
+    width:30px;
+}
+
+.color{
+    color:rgb(98, 100, 212) ;
+    
+}
+.imgs>img{
+    height:20px;
+    width:20px;
+}
+
+
+
+/* laptop view 1025 start */
+
+
+@media screen and (min-width:769px) and (max-width:1025px){
+
+
+.foot{
+
+    height: 503.89px;
+
+}
+.saifootimg{
+    padding-top: 50px;
+    
+}
+.saifoot1{
+    width: 220px;
+    height: 200px;
+    line-height: 30px;
+    text-align: justify;
+}
+.saih{
+    font-size: 18px;
+    padding-top:50px ;
+    padding-left: -150px;
+    text-align: justify;
+   
+}
+.saiimg{
+    padding-top: 0px;
+}
+.sailink>ul>{
+    font-size: 16px;
+    padding-top: 30px;
+    
+}
+.sailink>ul>li{
+    padding: -100px;
+}
+.sailink2>{
+    margin-top: -300px;
+    padding-top: -200PX;
+    font-size: 16px;
+
+}
+.saiimg1{
+    
+    margin-left: -100px;
+    padding-top: 50px;
+}
+.saimap{
+    padding-top: 50px;
+    padding-left: 0px;
+    margin-right: 100px;
+}
+.mapsize{
+    width: 200px;
+    height: 200px;
+    padding-right: 0px;
+
+}
+
+
+}
+
+
+/* laptop 1025 view end */
+
+
+
+/* tablet 769 view start */
+
+
+@media screen and (min-width:426px) and (max-width:769px){
+
+   
+        .foot{
+            
+            height: 647.48px;
+        }
+        .saifootimg{
+            padding-top: 25px;
+            width: 146.54px;
+            
+            
+        }
+        .saifoot1{
+            width: 150px;
+            height: 200px;
+            line-height: 30px;
+            text-align: justify;
+        }
+        .saih{
+            font-size: 18px;
+            padding-top:0px ;
+            margin-left: -40px;
+            text-align: justify;
+           
+        }
+        .saiimg{
+            padding-top: 50px;
+        }
+        .sailink{
+            font-size: 16px;
+            padding-top: 0px;
+            margin-left: -50px;
+            
+        }
+        .sailink>ul>li{
+            padding: -100px;
+        }
+        .sailink2{
+            padding-top: 120PX;
+            margin-left: -110px;
+            font-size: 16px;
+        
+        }
+        .saiimg1{
+            
+            margin-left: -100px;
+            padding-top: 0px;
+        }
+        h2{
+            font-size: 16px;
+        }
+        .saimap{
+            padding-top: 0px;
+            padding-left: 0px;
+            margin-right: 100px;
+            
+        }
+        .mapsize{
+            width: 200px;
+            height: 200px;
+
+        }
+    }
+
+    /* tablet 769 view end */
+
+
+    /* mobile 426 view start */
+
+    @media screen and (max-width:426px) {
+
+
+
+        .foot{
+           
+            height: 1233.28px;
+        }
+        .saifootimg{
+            padding-top: 25px;
+            width: 200px;
+            height: 80px;
+            
+            
+        }
+        .saifoot1{
+            width: 300px;
+            height: 200px;
+            line-height: 30px;
+            text-align: justify;
+        }
+        .saih{
+            font-size: 18px;
+            padding-top:0px ;
+            margin-left: -350px;
+            margin-top: 400px;
+            text-align: justify;
+           
+        }
+        .saiimg{
+            margin-top: -50px;
+        }
+        .sailink{
+            font-size: 16px;
+            padding-top: 0px;
+            margin-left: -360px;
+            margin-top: 10px;
+            
+        }
+        .sailink>ul>li{
+            padding: -100px;
+        }
+        .sailink2{
+            padding-top: 120PX;
+            margin-left: 40px;
+            margin-top:-130px ;
+            font-size: 16px;
+        
+        }
+        .saiimg1{
+            
+            margin-left: -470px;
+            margin-top: 650px;
+            padding-top: 0px;
+        }
+        h2{
+            font-size: 16px;
+        }
+        .saimap{
+            padding-top: 0px;
+            padding-left: 0px;
+            margin-right: 100px;
+            margin-left: -300px;
+            margin-top: 900px;
+            
+        }
+        .mapsize{
+            width: 300px;
+            height: 130px;
+
+        }
+        .saip{
+            width: 300px;
+            height: 10px;
+            text-align: justify;
+        }
+    }
+        
+    

@@ -1,0 +1,1649 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.praholedue{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.pradiv{
+    background-image: url(/Assets/Uploads/Images/ultratech-cement-limited-mast.jpg);
+    background-repeat: no-repeat;
+    background-size: auto;
+    height: 300vh;
+    background-position: top;
+    background-attachment: scroll;
+    font-size: 500px;
+    padding-top: 30vh;
+    padding-left: 20vh;
+    color: rgb(255, 0, 242);
+    z-index: 1;
+   
+}
+.pradiv3>.prawelcome{
+    font-size: 20px;
+    margin-top: 50px;
+}
+.pradiv3>.prapylonprojects{
+    font-size:60px ;
+    margin-top: 10px;
+    margin-left: 0px;
+}
+.pradiv3>.prapvtltd{
+    font-size:60px ;
+    margin-top: 0px;
+    margin-left: 0px;
+}
+
+.pradiv>h1{
+    display: inline-block;
+    
+}
+.pradiv>.pylonprojects{
+    position: absolute;
+    margin-top: 80px;
+    margin-left: -150px;
+}
+.pradiv>.pvtltd{
+    position: absolute;
+    margin-top: 170px;
+    margin-left: -150px;
+}
+
+.prabox{
+    background-color: transparent;
+    width: 350px;
+    height: 350px;
+    border-top: 15px solid orange;
+    border-left: 15px solid white;
+    border-bottom: 15px solid green;
+    border-radius: 100px;
+    padding: 50px;
+    margin-top: -1650px;
+    margin-left: 50px;
+    
+}
+/* learn more button */
+.prab2{
+    position: absolute;
+    height:50px;
+    width: 150px;
+    border-radius: 20px ;
+    background-color: rgb(248, 124, 79);
+    color: white;
+    margin-top: -50px;
+    margin-left: 300px;   
+    font-size: 15px;
+    
+    
+    
+    
+}
+/* mouse over link */
+button:hover {
+    background-color: rgb(68, 65, 65);
+  }
+.cards{
+    display: flex;
+
+}
+.prabox1{
+    
+    background-color: whitesmoke;
+    width: 350px;
+    height: 200px;
+    border: 1px solid white;
+    padding: 50px;
+    margin-top: 80px;
+    margin-left: 150px;
+    border-radius: 5px;
+
+}
+.prabox2{
+
+    background-color: orangered;
+    width: 350px;
+    height: 200px;
+    border: 1px solid orangered;
+    padding: 50px;
+    margin-top: 60px;
+    margin-left: 0px;
+    border-radius: 5px;
+
+}
+.prabox3{
+    
+    background-color: whitesmoke;
+    width: 350px;
+    height: 200px;
+    border: 1px solid white;
+    padding: 50px;
+    margin-top: 80px;
+    margin-left: 0px;
+    border-radius: 5px;
+
+
+}
+.prabox1>.pratowercrane{
+height: 70px;
+width: 70px;
+margin-left: 80px;
+
+
+
+}
+.prabox1>.prap1{
+    text-align: center;
+    font-size: x-large;
+}
+.prabox2>.pracrane{
+    height: 70px;
+    width: 70px;
+    margin-left: 80px;
+} 
+.prabox2>.prap2{
+    text-align: center;
+    font-size: x-large;
+}   
+.prabox3>.prabuilding{
+    height: 70px;
+    width: 70px;
+    margin-left: 80px;
+}
+.prabox3>.prap3{
+    text-align: center;
+    font-size: x-large;
+}
+.pradiv2{
+    display: flex;
+    
+}
+/* Our Company */
+.pradiv1{
+    margin-left: 100px;
+    
+}
+.pradiv2{
+    margin-right: 100px;
+}
+.prapylonprojectspvtltd{
+    font-size: 40px;
+    color: darkslateblue;
+
+}
+.pradiv2>.prap4{
+    font-size: larger;
+    text-align: justify;
+    width: 500px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-right: 0px;
+}
+.praimg{
+    margin-top: -120px;
+    margin-left: 100px;
+    margin-right: 0px;
+    width: 400px;
+    height: 500px;
+}
+
+/* OUR GROUP */
+.pradiv4{
+    margin-left: 500px;
+    margin-right: 100px;
+}
+.pradiv4>.praourgroup{
+    font-size: 20px;
+    
+}
+.pradiv4>.praSwastikInfralogicsPvtLtd{
+    font-size: 40px;
+    color: darkslateblue;
+}
+/* button2 */
+.prareadmore{
+
+    height: 50px;
+    width: 150px;
+    border-radius: 20px ;
+    background-color: rgb(248, 124, 79);
+    color: white;
+    font-size: 15px;
+    margin-top: 50px;
+    margin-left: 100px;
+    
+}
+.pradiv4>.prap5{
+    font-size:larger ;
+    text-align: justify;
+}
+.pradiv4>.praul>li{
+    font-size: larger;
+    text-align: justify;
+}
+/* button3 */
+.prareadmore2{
+    margin-top: 0px;
+    margin-left: 500px;
+    height: 50px;
+    width: 150px;
+    border-radius: 20px ;
+    background-color: rgb(248, 124, 79);
+    color: white;
+    font-size: 15px;
+}
+/* Management Experience & Credentials */
+.pradiv5{
+margin-left: 100px;
+margin-right: 100px;
+font-size: larger;
+}
+.pradiv5>.praManagementExperienceCredentials{
+    color: darkslateblue;
+    font-size: 40px;
+}
+.pradiv5>.prap6{
+    font-size: larger;
+    text-align: justify;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.pradiv5>.praul1>li{
+    font-size: larger;
+    text-align: justify;
+}
+
+/* Core Operational Sectors */
+.pradiv6{
+    text-align: center;
+    font-size: 20px;
+}
+.pradiv6>.praCoreOperationalSectors{
+color: darkslateblue;
+font-size: 40px;
+}
+.praConstruction{
+    font-size: large;
+}
+/* images */
+.pradiv7{
+    display: flex;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.praimg1{
+    height: 200px;
+    width: 325px;
+}
+.praimg2{
+    height: 200px;
+    width: 325px;
+    margin-top: 50px;
+}
+.praimg3{
+    height: 200px;
+    width: 325px;
+    margin-top: 50px;
+}
+.praimg4{
+    height: 200px;
+    width: 325px;
+    margin-left: 25px;
+}
+.praimg5{
+    height: 200px;
+    width: 325px;
+    margin-top: 50px;
+    margin-left: 25px;
+}
+.praimg6{
+    height: 200px;
+    width: 325px;
+    margin-top: 50px;
+    margin-left: 25px;
+}
+
+.praimg7{
+    height: 200px;
+    width: 325px;
+    margin-left: 25px;
+}
+
+.praimg8{
+    height: 200px;
+    width: 325px;
+    margin-top: 50px;
+    margin-left: 25px;
+}
+
+.praimg9{
+    height: 200px;
+    width: 325px;
+    margin-top: 50px;
+    margin-left: 25px;
+}
+/* img name */
+.prahcementplant{
+    margin-left: 110px;
+    font-size: larger;
+}
+.prahsteelplant{
+    margin-left: 110px;
+    font-size: larger;
+}
+.prahrefineryplant{
+    margin-left: 110px;
+    font-size: larger;
+}
+.prahpetrochemicalplant{
+    margin-left: 130px;
+    font-size: larger;
+}
+.prahpowerplant{
+    margin-left: 165px;
+    font-size: larger; 
+}
+.prahwastewaterplant{
+    margin-left: 140px;
+    font-size: larger; 
+}
+.prahrealestate{
+    margin-left: 165px;
+    font-size: larger; 
+}
+.prahwarehousing{
+    margin-left: 140px;
+    font-size: larger; 
+}
+.prahdatacenters{
+    margin-left: 160px;
+    font-size: larger; 
+}
+.prahourpolicies{
+    text-align: center;
+    font-size: larger;
+}
+.prahBusinessOverview{
+    text-align: center;
+    font-size: 40px;
+    color: darkslateblue;
+}
+
+/* Our Policies Business Overview */
+.pradiv9{
+    background-color: azure;
+    margin-left: 100px;
+    border: 1px solid rgb(194, 191, 191);
+    height: 500px;
+    width: 450px;
+    
+}
+/* button4 */
+.prabutton{
+    height: 50px;
+    width: 150px;
+    color: orangered;
+    font-size: 15px;
+    border: 1px solid orangered;
+}
+.pradiv10{
+    background-color: azure;
+    margin-left: 25px;
+    margin-right: 200px;
+    border: 1px solid rgb(194, 191, 191);
+    width: 450px;
+}
+.pradiv8{
+    display: flex;
+    text-align: center;
+}
+.prap7{
+    font-size: x-large;
+    text-align: center;
+}
+.prap8{
+    font-size: larger;
+    text-align: center;
+}
+.prap9{
+    font-size: x-large;
+    text-align: center;
+}
+.prap10{
+    font-size: larger;
+    text-align: center;
+}
+
+.praimg10{
+    width: 450px;
+}
+/* button5 */
+.prabutton1{
+    margin-left: 0px;
+    margin-top: 0px;
+    height: 50px;
+    width: 150px;
+    color: orangered;
+    font-size: 15px;
+    border: 1px solid orangered;
+
+}
+.praimg11{
+    width: 450px;
+}
+
+
+/* media quaries */
+/* laptop 1025 view  start*/
+
+@media screen and (max-width: 1024px) and (min-width:769px){
+
+    .nav-bar-border{
+        width: 100vw;
+    }
+
+.pradiv{
+    display: flex;
+    width: 1024px;
+}
+.prabox{
+    margin-top: -1300px;
+    margin-left: 30px;
+    
+}
+/* learn more button */
+.prab2{
+    position: absolute;
+    height:30px;
+    width: 100px;
+    border-radius: 10px ;
+    background-color: rgb(248, 124, 79);
+    color: white;
+    margin-top: -50px;
+    margin-left: 300px;   
+    font-size: 15px;
+}
+.prabox1{
+    margin-top: 100px;
+    margin-left: 150px;
+    height: 175px;
+    width: 250px;
+
+}
+.prabox2{
+    margin-top: 80px;
+    height: 175px;
+    width: 250px;
+
+    
+}
+.prabox3{
+    margin-top: 100px;
+    height: 175px;
+    width: 250px;
+
+}
+.prabox1>.pratowercrane{
+    height: 50px;
+    width: 50px;
+    margin-left: 50px;
+    
+ }
+    .prabox1>.prap1{
+        text-align: center;
+        font-size: 15px;
+    }
+    .prabox2>.pracrane{
+        height: 50px;
+        width: 50px;
+        margin-left: 50px;
+    } 
+    .prabox2>.prap2{
+        text-align: center;
+        font-size: 15px;
+    }   
+    .prabox3>.prabuilding{
+        height: 50px;
+        width: 50px;
+        margin-left: 50px;
+    }
+    .prabox3>.prap3{
+        text-align: center;
+        font-size: 15px;
+    }
+.praourcompany{
+    margin-top: 0px;
+}
+.prapylonprojects{
+    font-size: 35px;
+}
+.pradiv1{
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.pradiv2{
+    display: flex;
+    margin-right: 100px;
+}
+.pradiv2>.prap4{
+    width: 400px;
+    height: 0px;
+    margin-right: px;
+    margin-left: 0px;
+    margin-top: 0px;
+    font-size: 15px;
+    padding-right:20px;
+}
+.praimg{
+    
+    
+    margin-top: -100px;
+    margin-left: 50px;
+    margin-right: -100px;
+    width: 400px;
+    height: 600px;
+
+}
+.prahourpolicies{
+    margin-left: 200px;
+}
+.prahBusinessOverview{
+    margin-left: 200px;
+}
+.pradiv10{
+    margin-left: 50px;
+}
+/* OUR GROUP */
+.pradiv4{
+    margin-left: 300px;
+    margin-right: 100px;
+}
+.pradiv4>.praourgroup{
+    font-size: 20px;
+    
+}
+.pradiv4>.praSwastikInfralogicsPvtLtd{
+    font-size: 35px;
+    color: darkslateblue;
+    
+}
+/* button2 */
+.prareadmore{
+
+    height: 30px;
+    width: 100px;
+    border-radius: 10px ;
+    background-color: rgb(248, 124, 79);
+    color: white;
+    font-size: 15px;
+    margin-top: -150px;
+    margin-left: 100px;
+    
+}
+.pradiv4>.prap5{
+    font-size:15px ;
+    text-align: justify;
+}
+.pradiv4>.praul>li{
+    font-size: 15px;
+    text-align: justify;
+}
+/* button3 */
+.prareadmore2{
+    margin-top: 0px;
+    margin-left: 300px;
+    height: 30px;
+    width: 100px;
+    border-radius: 10px ;
+    background-color: rgb(248, 124, 79);
+    color: white;
+    font-size: 15px;
+}
+/* Management Experience & Credentials */
+.pradiv5{
+    margin-left: 100px;
+    margin-right: 100px;
+    font-size: 15px;
+    }
+    .pradiv5>.praManagementExperienceCredentials{
+        color: darkslateblue;
+        font-size: 35px;
+    }
+    .pradiv5>.prap6{
+        font-size: 15px;
+        text-align: justify;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+    .pradiv5>.praul1>li{
+        font-size: 15px;
+        text-align: justify;
+    }
+    
+    /* Core Operational Sectors */
+    .pradiv6{
+        text-align: center;
+        font-size: 15px;
+    }
+    .pradiv6>.praCoreOperationalSectors{
+    color: darkslateblue;
+    font-size: 35px;
+    }
+    .praConstruction{
+        font-size: 15px;
+    }
+    /* images */
+.pradiv7{
+    display: flex;
+    margin-left: 100px;
+    margin-right: 200px;
+}
+.praimg1{
+    height: 150px;
+    width: 250px;
+}
+.praimg2{
+    height: 150px;
+    width: 250px;
+    margin-top: 50px;
+}
+.praimg3{
+    height: 150px;
+    width: 250px;
+    margin-top: 50px;
+}
+.praimg4{
+    height: 150px;
+    width: 250px;
+    margin-left: 50px;
+}
+.praimg5{
+    height: 150px;
+    width: 250px;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+.praimg6{
+    height: 150px;
+    width: 250px;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+.praimg7{
+    height: 150px;
+    width: 250px;
+    margin-left: 50px;
+}
+
+.praimg8{
+    height: 150px;
+    width: 250px;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+.praimg9{
+    height: 150px;
+    width: 250px;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+/* img name */
+.prahcementplant{
+    margin-left: 60px;
+    font-size: 15px;
+}
+.prahsteelplant{
+    margin-left: 80px;
+    font-size: 15px;
+}
+.prahrefineryplant{
+    margin-left: 60px;
+    font-size: 15px;
+}
+.prahpetrochemicalplant{
+    margin-left: 90px;
+    font-size: 15px;
+}
+.prahpowerplant{
+    margin-left: 120px;
+    font-size: 15px; 
+}
+.prahwastewaterplant{
+    margin-left: 100px;
+    font-size: 15px; 
+}
+.prahrealestate{
+    margin-left: 120px;
+    font-size: 15px; 
+}
+.prahwarehousing{
+    margin-left: 120px;
+    font-size: 15px; 
+}
+.prahdatacenters{
+    margin-left: 120px;
+    font-size: 15px; 
+}
+.prahourpolicies{
+
+    font-size: 15px;
+    margin-left: 0px;
+}
+.prahBusinessOverview{
+    
+    font-size: 35px;
+    color: darkslateblue;
+    margin-left: 0px;
+}
+/* Our Policies Business Overview */
+.pradiv9{
+    background-color: azure;
+    margin-left: 100px;
+    border: 1px solid rgb(194, 191, 191);
+    height: 450px;
+    width: 400px;
+    
+}
+/* button4 */
+.prabutton{
+    height: 30px;
+    width: 100px;
+    color: orangered;
+    font-size: 15px;
+    border: 1px solid orangered;
+    margin-left: 0px;
+    margin-top: 0px;
+}
+.pradiv10{
+    background-color: azure;
+    margin-left: 50px;
+    margin-right: 100px;
+    border: 1px solid rgb(194, 191, 191);
+    width: 400px;
+    height: 450px;
+}
+.pradiv8{
+    display: flex;
+    text-align: center;
+}
+.prap7{
+    font-size: 20px;
+    text-align: center;
+}
+.prap8{
+    font-size: 15px;
+    text-align: center;
+}
+.prap9{
+    font-size: 20px;
+    text-align: center;
+}
+.prap10{
+    font-size: 15px;
+    text-align: center;
+}
+
+.praimg10{
+    width: 400px;
+}
+/* button5 */
+.prabutton1{
+    margin-left: 0px;
+    margin-top: 0px;
+    height: 30px;
+    width: 100px;
+    color: orangered;
+    font-size: 15px;
+    border: 1px solid orangered;
+
+}
+.praimg11{
+    width: 400px;
+}
+}
+/* media queries laptop 1025 end */
+
+/* media queries tablet 768  start*/
+
+@media screen and (max-width: 769px) and (min-width:426px){
+
+    .nav-bar-border{
+        width: 100vw;
+    }
+   
+
+    .pradiv{
+        display: flex;
+        width: 768px;
+        
+    }
+    .prabox{
+        margin-top: -1300px;
+        margin-left: 30px;
+        
+    }
+    /* learn more button */
+    .prab2{
+        position: absolute;
+        height:47.5px;
+        width: 171.05px;
+        border-radius: 20px ;
+        background-color: rgb(248, 124, 79);
+        color: white;
+        margin-top: -50px;
+        margin-left: 300px;   
+        font-size: 15px;
+    }
+    .prabox1{
+        margin-top: 100px;
+        margin-left: 50px;
+        height: 250px;
+        width: 228.39px;
+    
+    }
+    .prabox2{
+        margin-top: 80px;
+        height: 250px;
+        width: 228.39px;
+    
+        
+    }
+    .prabox3{
+        margin-top: 100px;
+        height: 250px;
+        width: 228.39px;
+    
+    }
+    .prabox1>.pratowercrane{
+        height: 80px;
+        width: 80px;
+        margin-left: 20px;
+        
+     }
+        .prabox1>.prap1{
+            text-align: center;
+            font-size: 22px;
+        }
+        .prabox2>.pracrane{
+            height: 80px;
+            width: 80px;
+            margin-left: 20px;
+        } 
+        .prabox2>.prap2{
+            text-align: center;
+            font-size: 22px;
+            color: white;
+        }   
+        .prabox3>.prabuilding{
+            height: 80px;
+            width: 80px;
+            margin-left: 20px;
+            
+        }
+        .prabox3>.prap3{
+            text-align: center;
+            font-size: 22px;
+            margin-left: -20px;
+        }
+    .praourcompany{
+        margin-top: 100px;
+        font-size: 20px;
+    }
+    .prapylonprojectspvtltd{
+        font-size: 42px;
+        padding-right: 50px;
+        width: 390px;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    .pradiv1{
+        margin-left: 50px;
+        margin-right: 50px;
+    }
+    .pradiv2{
+        display: flex;
+        margin-right: 100px;
+    }
+    .pradiv2>.prap4{
+        width: 330.59px;
+        height: 0px;
+        margin-right:0px
+        margin-left:0px;
+        margin-top : 0px;
+        font-size: 15px;
+        padding-right:20px;
+    }
+    .praimg{
+        
+        
+        margin-top: -200px;
+        margin-left: 0px;
+        margin-right: -100px;
+        width: 330px;
+        height: 417px;
+    
+    }
+    .prahourpolicies{
+        margin-left: 200px;
+    }
+    .prahBusinessOverview{
+        margin-left: 200px;
+    }
+    .pradiv10{
+        margin-left: 50px;
+    }
+    /* OUR GROUP */
+    .pradiv4{
+        margin-left: 200px;
+        margin-right: 50px;
+    }
+    .pradiv4>.praourgroup{
+        font-size: 20px;
+        margin-top: 100px;
+    
+        
+    }
+    .pradiv4>.praSwastikInfralogicsPvtLtd{
+        font-size: 42px;
+        color: darkslateblue;
+        width: 510.89px;
+        height: 100px;
+        margin-right: 50px;
+        font-family: Arial, Helvetica, sans-serif;
+        
+        
+    }
+    /* button2 */
+    .prareadmore{
+    
+        height: 47.05px;
+        width: 171.05px;
+        border-radius: 20px ;
+        background-color: rgb(248, 124, 79);
+        color: white;
+        font-size: 15px;
+        margin-top: 280px;
+        margin-left: 50px;
+        
+    }
+    .pradiv4>.prap5{
+        font-size:15px ;
+        text-align: justify;
+    }
+    .pradiv4>.praul>li{
+        font-size: 15px;
+        text-align: justify;
+    }
+    /* button3 */
+    .prareadmore2{
+        margin-top: 0px;
+        margin-left: 200px;
+        height: 47.05px;
+        width: 171.05px;
+        border-radius: 20px ;
+        background-color: rgb(248, 124, 79);
+        color: white;
+        font-size: 15px;
+    }
+    /* Management Experience & Credentials */
+    .pradiv5{
+        margin-left: 50px;
+        margin-right: 50px;
+        font-size: 15px;
+        }
+        .pradiv5>.praManagementExperienceCredentials{
+            color: darkslateblue;
+            font-size: 42px;
+            
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        .pradiv5>.prap6{
+            font-size: 15px;
+            text-align: justify;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        .pradiv5>.praul1>li{
+            font-size: 15px;
+            text-align: justify;
+        }
+        
+        /* Core Operational Sectors */
+        .pradiv6{
+            text-align: center;
+            font-size: 15px;
+            margin-top: 0px;
+        }
+        .pradiv6>.praCoreOperationalSectors{
+        color: darkslateblue;
+        font-size: 42px;
+        }
+        .praConstruction{
+            font-size: 16px;
+        }
+        /* images */
+    .pradiv7{
+        display: flex;
+        margin-left: 50px;
+        margin-right: 50px;
+    }
+    .praimg1{
+        height: 119.25px;
+        width: 210.39px;
+    }
+    .praimg2{
+        height: 119.25px;
+        width: 210.39px;
+        margin-top: 50px;
+    }
+    .praimg3{
+        height: 119.25px;
+        width: 210.39px;
+        margin-top: 50px;
+    }
+    .praimg4{
+        height: 119.25px;
+        width: 210.39px;
+        margin-left: 15px;
+    }
+    .praimg5{
+        height: 119.25px;
+        width: 210.39px;
+        margin-top: 50px;
+        margin-left: 15px;
+    }
+    .praimg6{
+        height: 119.25px;
+        width: 210.39px;
+        margin-top: 50px;
+        margin-left: 15px;
+    }
+    
+    .praimg7{
+        height: 119.25px;
+        width: 210.39px;
+        margin-left: 15px;
+    }
+    
+    .praimg8{
+        height: 119.25px;
+        width: 210.39px;
+        margin-top: 50px;
+        margin-left: 15px;
+    }
+    
+    .praimg9{
+        height: 119.25px;
+        width: 210.39px;
+        margin-top: 50px;
+        margin-left: 15px;
+    }
+    /* img name */
+    .prahcementplant{
+        margin-left: 50px;
+        font-size: 15px;
+    }
+    .prahsteelplant{
+        margin-left: 70px;
+        font-size: 15px;
+    }
+    .prahrefineryplant{
+        margin-left: 50px;
+        font-size: 15px;
+    }
+    .prahpetrochemicalplant{
+        margin-left: 30px;
+        font-size: 15px;
+    }
+    .prahpowerplant{
+        margin-left: 70px;
+        font-size: 15px; 
+    }
+    .prahwastewaterplant{
+        margin-left: 30px;
+        font-size: 15px; 
+    }
+    .prahrealestate{
+        margin-left: 80px;
+        font-size: 15px; 
+    }
+    .prahwarehousing{
+        margin-left: 50px;
+        font-size: 15px; 
+    }
+    .prahdatacenters{
+        margin-left: 50px;
+        font-size: 15px; 
+    }
+    .prahourpolicies{
+    
+        font-size: 20px;
+        margin-left: 0px;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    .prahBusinessOverview{
+        
+        font-size: 42px;
+        color: darkslateblue;
+        margin-left: 0px;
+    }
+    /* Our Policies Business Overview */
+    .pradiv9{
+        background-color: azure;
+        margin-left: 50px;
+        border: 1px solid rgb(194, 191, 191);
+        height: 400px;
+        width: 320.94px;
+        
+    }
+    /* button4 */
+    .prabutton{
+        height: 47.05px;
+        width: 171.05px;
+        color: orangered;
+        font-size: 15px;
+        border: 1px solid orangered;
+        margin-left: 0px;
+        margin-top: -200px;
+    }
+    .pradiv10{
+        background-color: azure;
+        margin-left: 50px;
+        margin-right: 25px;
+        border: 1px solid rgb(194, 191, 191);
+        width: 320.94px;
+        height: 400px;
+    }
+    .pradiv8{
+        display: flex;
+        text-align: center;
+    }
+    .prap7{
+        font-size: 18px;
+        text-align: center;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    .prap8{
+        font-size: 15px;
+        text-align: center;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    .prap9{
+        font-size: 18px;
+        text-align: center;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    .prap10{
+        font-size: 15px;
+        text-align: center;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    
+    .praimg10{
+        width: 320.94px;
+    }
+    /* button5 */
+    .prabutton1{
+        margin-left: 0px;
+        margin-top: 0px;
+        height: 47.05px;
+        width: 171.05px;
+        color: orangered;
+        font-size: 15px;
+        border: 1px solid orangered;
+    
+    }
+    .praimg11{
+        width: 320.94px;
+    }
+}
+/* media queries tablet 768  end*/
+
+
+/* media queries mobile 426  start*/
+
+@media screen and (max-width:426px){
+    .nav-bar-border{
+        width: 100vw;
+    }
+   
+    .pradiv{
+        display: flex;
+        width: 426px;
+        height: 438px;
+        
+    }
+    .pradiv3{
+        margin-top: -150px;
+        margin-left: -50px;
+    }
+    .pradiv3>.prawelcome{
+        font-size: 16px;
+        font-family: Arial, Helvetica, sans-serif;
+        text-align: center;
+    }
+    .pradiv3>.prapylonprojects{
+        font-size: 38px;
+        font-family: Arial, Helvetica, sans-serif;
+        text-align: center;
+    }
+    .pradiv3>.prapvtltd{
+        font-size: 38px;
+        font-family: Arial, Helvetica, sans-serif;
+        text-align: center;
+    }
+    .prabox{
+        margin-top: -440px;
+        margin-left: 30px;
+        width: 220px;
+        height: 200px;
+        border-radius: 50px;
+        
+    }
+    /* learn more button */
+    .prab2{
+        position: absolute;
+        height:47.5px;
+        width: 171.05px;
+        border-radius: 20px ;
+        background-color: rgb(248, 124, 79);
+        color: white;
+        margin-top: 50px;
+        margin-left: 40px;   
+        font-size: 15px;
+    }
+    .prabox1{
+        margin-top: 100px;
+        margin-left: 25px;
+        margin-right: 25px;
+        height: 223px;
+        width: 380px;
+        display: block;
+        position: absolute;
+    
+    }
+    .prabox2{
+        margin-top: 350px;
+        margin-left:25px;
+        margin-right: 25px;
+        height: 223px;
+        width: 380px;
+        display: block;
+        position: absolute;
+    
+        
+    }
+    .prabox3{
+        margin-top: 600px;
+        margin-left: 25px;
+        margin-right: 25px;
+        height: 223px;
+        width: 380px;
+        display: block;
+        position: absolute;
+    
+    }
+    .prabox1>.pratowercrane{
+        height: 80px;
+        width: 80px;
+        margin-left: 100px;
+        
+     }
+        .prabox1>.prap1{
+            text-align: center;
+            font-size: 22px;
+        }
+        .prabox2>.pracrane{
+            height: 80px;
+            width: 80px;
+            margin-left: 100px;
+        } 
+        .prabox2>.prap2{
+            text-align: center;
+            font-size: 22px;
+            color: white;
+        }   
+        .prabox3>.prabuilding{
+            height: 80px;
+            width: 80px;
+            margin-left: 100px;
+            
+        }
+        .prabox3>.prap3{
+            text-align: center;
+            font-size: 22px;
+            margin-left: -32px;
+        }
+    .praourcompany{
+        margin-top: 900px;
+        font-size: 20px;
+        margin-left: 0px;
+    }
+    .prapylonprojectspvtltd{
+        font-size: 42px;
+        width: 300px;
+        font-family: Arial, Helvetica, sans-serif;
+        margin-left: 0px;
+    }
+    .pradiv1{
+        margin-left: 25px;
+        margin-right: 25px;
+    }
+    .pradiv2{
+        display: block;
+        width: 426px;
+    }
+    .pradiv2>.prap4{
+        display: block;
+        margin-left: 0px;
+        margin-right: 25px;
+        width: 380px;
+        position: absolute;
+        
+        
+    }
+    .praimg{
+        
+        
+        margin-top: 800px;
+        margin-left: 0px; 
+        margin-right: 25px;
+        /* padding-left: 10px;
+        padding-right: 100px; */
+        width: 380px;
+        height: 417px;
+        display: block;
+        position: absolute;
+    
+    }
+    .prahourpolicies{
+        margin-left: 200px;
+    }
+    .prahBusinessOverview{
+        margin-left: 200px;
+    }
+    .pradiv10{
+        margin-left: 50px;
+    }
+    /* OUR GROUP */
+    .pradiv4{
+        margin-left: 0px;
+        margin-right:0px;
+    }
+    .pradiv4>.praourgroup{
+        font-size: 20px;
+        margin-top: 1100px;
+        margin-left: 25px;
+    
+        
+    }
+    .pradiv4>.praSwastikInfralogicsPvtLtd{
+        font-size: 42px;
+        color: darkslateblue;
+        width: 380px;
+        height: 100px;
+        margin-left: 25px;
+        font-family: Arial, Helvetica, sans-serif;
+        
+        
+    }
+    /* button2 */
+    .prareadmore{
+
+        position: absolute;
+        height: 47.05px;
+        width: 171.05px;
+        border-radius: 20px ;
+        background-color: rgb(248, 124, 79);
+        color: white;
+        font-size: 15px;
+        margin-top: 600px;
+        margin-left: 25px;
+        
+    }
+    .pradiv4>.prap5{
+        font-size:16px ;
+        text-align: justify;
+        margin-right: 25px;
+        margin-left: 25px;
+        margin-top: 50px;
+    }
+    .pradiv4>.praul>li{
+        font-size: 16px;
+        text-align: justify;
+        margin-right: 25px;
+        margin-left: 50px;
+        
+    }
+    /* button3 */
+    .prareadmore2{
+        margin-top: 0px;
+        margin-left: 25px;
+        height: 47.05px;
+        width: 171.05px;
+        border-radius: 20px ;
+        background-color: rgb(248, 124, 79);
+        color: white;
+        font-size: 15px;
+    }
+    /* Management Experience & Credentials */
+    .pradiv5{
+        margin-left: 25px;
+        margin-right: 25px;
+        margin-top: -50px;
+        font-size: 15px;
+        }
+        .pradiv5>.praManagementExperienceCredentials{
+            color: darkslateblue;
+            font-size: 42px;
+            
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        .pradiv5>.prap6{
+            font-size: 15px;
+            text-align: justify;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        .pradiv5>.praul1>li{
+            font-size: 15px;
+            text-align: justify;
+            margin-left: 25px;
+        }
+        
+        /* Core Operational Sectors */
+        .pradiv6{
+            text-align: center;
+            font-size: 15px;
+            margin-top: 0px;
+        }
+        .pradiv6>.praCoreOperationalSectors{
+        color: darkslateblue;
+        font-size: 42px;
+        }
+        .praConstruction{
+            font-size: 16px;
+        }
+        /* images */
+    .pradiv7{
+        display: block;
+        margin-left: 25px;
+        margin-right: 25px;
+    }
+    .praimg1{
+        height: 216.81px;
+        width: 382.5px;
+    }
+    .praimg2{
+        height: 216.81px;
+        width: 382.5px;
+        margin-top:25px;
+    }
+    .praimg3{
+        height: 216.81px;
+        width: 382.5px;
+        margin-top:25px;
+    }
+    .praimg4{
+        height: 216.81px;
+        width: 382.5px;
+        margin-top:25px;
+        margin-left: 0px;
+    }
+    .praimg5{
+        height: 216.81px;
+        width: 382.5px;
+        margin-top: 25px;
+        margin-left: 0px;
+        
+    }
+    .praimg6{
+        height: 216.81px;
+        width: 382.5px;
+        margin-top: 25px;
+        margin-left: 0px;
+        
+    }
+    
+    .praimg7{
+        height: 216.81px;
+        width: 382.5px;
+        margin-top: 25px;
+        margin-left: 0px;
+    }
+    
+    .praimg8{
+        height: 216.81px;
+        width: 382.5px;
+        margin-top: 25px;
+        margin-left: 0px;
+        
+    }
+    
+    .praimg9{
+        height: 216.81px;
+        width: 382.5px;
+        margin-top: 25px;
+        margin-left: 0px;
+        
+    }
+    /* img name */
+    .prahcementplant{
+        margin-left: 125px;
+        font-size: 15px;
+    }
+    .prahsteelplant{
+        margin-left: 130px;
+        font-size: 15px;
+    }
+    .prahrefineryplant{
+        margin-left: 110px;
+        font-size: 15px;
+    }
+    .prahpetrochemicalplant{
+        margin-left: 100px;
+        font-size: 15px;
+    }
+    .prahpowerplant{
+        margin-left: 140px;
+        font-size: 15px; 
+    }
+    .prahwastewaterplant{
+        margin-left: 100px;
+        font-size: 15px; 
+    }
+    .prahrealestate{
+        margin-left: 150px;
+        font-size: 15px; 
+    }
+    .prahwarehousing{
+        margin-left: 120px;
+        font-size: 15px; 
+    }
+    .prahdatacenters{
+        margin-left: 120px;
+        font-size: 15px; 
+    }
+    .prahourpolicies{
+    
+        font-size: 20px;
+        margin-left: 0px;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    .prahBusinessOverview{
+        
+        font-size: 42px;
+        color: darkslateblue;
+        margin-left: 0px;
+    }
+    /* Our Policies Business Overview */
+    .pradiv9{
+        background-color: azure;
+        margin-left: 25px;
+        margin-top: -50px;
+        border: 1px solid rgb(194, 191, 191);
+        height: 400px;
+        width: 365.19px;
+        
+    }
+    /* button4 */
+    .prabutton{
+        height: 47.05px;
+        width: 171.05px;
+        color: orangered;
+        font-size: 15px;
+        border: 1px solid orangered;
+        margin-left: 0px;
+        margin-top: -200px;
+    }
+    .pradiv10{
+        background-color: azure;
+        margin-top: 100px;
+        margin-left: 25px;
+        margin-right: 25px;
+        margin-bottom: 100px;
+        border: 1px solid rgb(194, 191, 191);
+        height: 400px;
+        width: 365.19px;
+    }
+    .pradiv8{
+        display: block;
+        position: absolute;
+    }
+    .prap7{
+        font-size: 18px;
+        text-align: center;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    .prap8{
+        font-size: 15px;
+        text-align: center;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    .prap9{
+        font-size: 18px;
+        text-align: center;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    .prap10{
+        font-size: 15px;
+        text-align: center;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    
+    .praimg10{
+        width: 365.19px;
+    }
+    /* button5 */
+    .prabutton1{
+        margin-left: 0px;
+        margin-top: 0px;
+        height: 47.05px;
+        width: 171.05px;
+        color: orangered;
+        font-size: 15px;
+        border: 1px solid orangered;
+    
+    }
+    .praimg11{
+        width: 365.19px;
+    }
+}
+

@@ -1,0 +1,1045 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.sbg{
+    position: relative;
+    background-image: url(/Assets/Uploads/Images/hitachi-2.jpg);
+    width: 100%;
+    height:60vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+    color: white;
+    background-attachment: scroll;
+    z-index: -1;
+    
+}
+.sproject{
+    padding-left: 450px;
+    padding-top: 100px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    font-size:50px;
+}
+.sbg>h3{
+    padding-left: 500px;
+    padding-top:10px ;
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+
+}
+.sbg>h3>a{
+    text-decoration: none;
+    color: white;
+    font-size: x-large;/*correction needed*/
+    
+}
+p>strong{
+    color: orangered;
+}
+.sgroup{
+    color: rgb(17, 56, 130);
+    margin-left: 50px;
+}
+.sgroup2{
+    display:flex;
+    margin-left: 50px;
+}
+.sgroup3{
+    padding-left: 200px;
+    width: 60%;
+    margin-right: 100px;
+
+}
+.sgroup1{
+    
+    margin-left: 40px;
+}
+.sgroup5{
+    
+    display: flex;
+    margin-left: 50px;
+}
+.sgroup4{
+    margin-left: 50px;
+    padding-top: 30px;
+}
+.sgroup6{
+    padding-left: 100px;
+    padding-top: 30px;
+    margin-right:100px;
+}
+.sgroup9{
+    display: flex;
+    margin-left: 50px;
+}
+.sgroup7{
+    margin-left: 50px;
+    margin-top: 30px;
+
+}
+.sgroup8{
+    padding-left: 150px;
+    padding-right: 100px;
+    
+}
+.sgroup10{
+    margin-left: 110px;
+}
+.sky1{
+    display: flex;
+    margin-left: 50px;
+}
+.sky2{
+    margin-left: 50px;
+}
+.sky3{
+    padding-left: 50px;
+    padding-right: 100px;
+}
+.sky3>img{
+    width:550px;
+    padding-left: 50px;
+    
+}
+.sky4{
+    display: flex;
+    margin-left: 50px;
+}
+.sky5{
+    margin-left: 50px;
+}
+.sky6{
+    padding-left: 170px;
+    padding-top: 20px;
+    margin-right: 100px;
+}
+.sky7{
+    display: flex;
+    margin-left: 50px;
+}
+.sky8{
+    margin-left: 50px;
+    padding-top: 20px;
+}
+.sky9{
+    padding-left: 100px;
+    margin-right: 100px;
+    
+
+}
+.sky9>img{
+    width:550px;
+}
+.sky10{
+    display: flex;
+    margin-left: 50px;
+}
+.sky11>img{
+    margin-left: 50px;
+    width:500px;
+}
+.sky12{
+    padding-left: 80px;
+    padding-top: 50px;
+}
+.sky13{
+    display: flex;
+    margin-left: 50px;
+
+}
+.sky14{
+    margin-left: 50px;
+    margin-top: 30px;
+
+}
+.sky15{
+   padding-left: 100px;
+}
+.sky16{
+    display: flex;
+    margin-left: 50px;
+}
+.sky17{
+    margin-left: 50px;
+    
+}
+.sky16>.sky17>img{
+    width: 80%;
+    margin-top: 30px;
+    height: 80vh;
+}
+.sky18{
+    padding-top: 50px;
+    padding-right: 100px;
+    
+}
+.sky19{
+    display: flex;
+    margin-left: 50px;
+
+}
+.sky20{
+    margin-left: 50px;
+    padding-top: 40px;
+    text-align: justify;
+}
+.sky21{
+    padding-left: 100px;
+    padding-top: 35px;
+    
+}
+.sky21>img{
+width:450px;
+}
+.sky22{
+    display: flex;
+    margin-left: 50px;
+}
+.sky23>img{
+    margin-left: 50px;
+    width:450px;
+}
+.sky24{
+    padding-left: 100px;
+    padding-top: 50px;
+text-align: justify;
+}
+.sai1{/*pics task */
+    padding-top: 30px;
+    margin-left: 80px;
+    color: rgb(17, 56, 130);
+
+}
+.sai2{
+    margin-left: 80px;
+    padding-top: 30px;
+    color:orangered;
+}
+.sai3{
+    display: flex;
+}
+.sai4{
+    display: flex;
+}
+.skysai{
+    margin-left: 55px;
+    margin-top: 20px;
+}
+.sai7{
+    color:orangered;
+    padding-top: 50px;
+    margin-left: 80px;
+}
+.skysai1{
+    margin-left: 50px;
+    padding-top: 30px;
+}
+.sai8{
+    color:orangered;
+    padding-top: 50px;
+    margin-left: 80px;
+}
+.skysai2{
+    margin-left: 50px;
+    padding-top: 30px;
+
+}
+.sai9{
+    color:orangered;
+    padding-top: 50px;
+    margin-left: 80px;
+
+}
+.skysai3>div>img{
+    width:48%;
+}
+.skysai3{
+    margin-left: 50px;
+    padding-top: 30px;
+
+}
+.skysai4{
+    margin-left: 50px;
+    padding-top: 30px;
+}
+.sai10{
+    color:orangered;
+    padding-top: 50px;
+    margin-left: 80px;
+}
+.sai11{
+    color:orangered;
+    padding-top: 50px;
+    margin-left: 80px;
+}
+.skysai5{
+    margin-left: 50px;
+    padding-top: 30px;
+}
+.sai12{
+    color:orangered;
+    padding-top: 50px;
+    margin-left: 80px;
+}
+.skysai6{
+    margin-left: 50px;
+    padding-top: 30px;
+}
+.sai13{
+    color:orangered;
+    padding-top: 50px;
+    margin-left: 80px;
+}
+.skysai7{
+    margin-left: 50px;
+    padding-top: 30px;
+}
+.sai14{
+    color:orangered;
+    padding-top: 50px;
+    margin-left: 80px;
+}
+.skysai8{
+    margin-left: 50px; 
+    padding-top: 30px;
+    
+}
+.skysai>.sai3>img{
+    width:550px;
+    padding-left: 50px;
+    height:300px;
+
+}
+.skysai>.sai4>img{
+    width: 550px;
+    padding-left: 50px;
+    height:300px;
+}
+.skysai>.sai5>img{
+    width: 550px;
+    padding-left: 50px;
+    height:300px;
+}
+.skysai>.sai6>img{
+    width: 550px;
+    padding-left: 50px;
+    height:300px;
+}
+.skysai1>.saisteel>img{
+    width:550px;
+    padding-left: 50px;
+    height:300px;
+}
+.skysai1>.saisteel1>img{
+    width:550px;
+    padding-left: 50px;
+    height:300px;
+}
+.skysai2>.sairef1>img{
+    width:550px;
+    padding-left: 50px;
+    height:300px;
+}
+.skysai2>.sairef2>img{
+    width:550px;
+    padding-left: 50px;
+    height:300px;
+}
+.skysai3>.saipet>img{
+    width:550px;
+    padding-left: 50px;
+    height:300px;
+}
+.skysai4>.saipow1>img{
+    width:550px;
+    padding-left:50px;
+}
+.skysai4>.saipow2>img{
+    width:550px;
+    padding-left:50px;
+    height:300px;
+}
+.saipow1>.saipow2h{
+    
+height:300px;
+}
+.skysai5>.saiwat>img{
+    padding-left: 50px;
+    width:1100px;
+}
+.skysai6>.saippu>img{
+    padding-left: 50px;
+    width:1100px;
+
+}
+.skysai7>.saires>img{
+    padding-left: 50px;
+    width:1100px;
+
+}
+.skysai8>.saicom>img{
+    padding-left: 50px;
+    width:1100px;
+    
+
+}
+
+@media screen and (min-width:769px) and (max-width:1025px){
+
+    .nav-bar-border{
+        width: 100vw;
+    }
+
+
+    .sproject{
+        margin-left: -140px;
+    }
+     .saii{
+        margin-left: -140px;
+     }
+     .sgroup3{
+        width:700px;
+        padding-left: 30px;
+     }
+     .sgroup4>img{
+        width:400px;
+        height: 600px;
+     }
+    .sgroup6{
+        padding-right: 20px;
+        text-align: justify;
+    }
+    .sgroup7>p{
+    width: 270px;
+    
+    }
+    .sgroup8>img{
+        width:400px;
+        height: 650px;
+        padding-top: 30px;
+
+    }
+    .sgroup10>img{
+        width:450px;
+        height:500px;
+    }
+    
+    .sky3>img{
+        width:500px;
+        height:500px;
+    }
+    .sky6>p{
+        width:350px;
+        margin-left: -100px;
+    }
+    .sky5>img{
+        padding-top: 30px;
+    }
+    .sky8>p{
+        width:270px;
+    }
+    .sky9>img{
+        width:480px;
+        height: 400px;
+    }
+    .sky11>img{
+       height:400px;
+       width :420px;
+       padding-top: 40px;
+    }
+    .sky12>p{
+        margin-left: -50px;
+    }
+    .sky14{
+        height:200px;
+         width:300px;
+    }
+    .sky15>img{
+        height:400px;
+        width:450px;
+        margin-left: 10px;
+        padding-top: 30px;
+
+
+    }
+    .sky17>img{
+        width:500px;
+        height:500px;
+    }
+    .sky21>img{
+        padding-right: 60px;
+    }
+    .sky24{
+        margin-right: 100px;
+        padding-bottom: 50px;
+
+    }/*pics task*/
+    .skysai>.sai3>img{/*cement*/
+    width:500px;
+    margin-left: -30px;
+    padding-right:50px;
+    
+    }
+    
+ .skysai>.sai4>img{
+    width: 500px;
+    margin-left: -30px;
+    padding-right:50px; 
+
+    
+}
+ .skysai>.sai5>img{
+    width:500px;
+    margin-left: -30px;
+    padding-right:50px; 
+
+}
+.skysai>.sai6>img{
+    width:500px;
+    margin-left: -30px;
+    padding-right:50px; 
+
+    
+}/*steel*/
+.skysai1>.saisteel>img{
+    width:500px;
+    margin-left: -30px;
+    padding-right:50px; 
+
+
+}
+.skysai1>.saisteel1>img{
+    width:500px;
+    margin-left: -30px;
+    padding-right:50px;
+
+}/*ref*/
+.skysai2>.sairef1>img{
+    width:500px;
+    margin-left: -30px;
+    padding-right:50px;
+
+}
+.skysai2>.sairef2>img{
+    width:500px;
+    margin-left: -30px;
+    padding-right:50px;
+}
+.skysai3>.saipet>img{
+    width:500px;
+    margin-left: -30px;
+    padding-right:50px;
+
+}
+.skysai4>.saipow1>img{
+    width:500px;
+    margin-left: -30px;
+    padding-right:50px;
+
+}
+.skysai4>.saipow2>img{
+    width:500px;
+    margin-left: -30px;
+    padding-right:50px;
+}
+.skysai5>.saiwat>img{
+    width: 930PX;
+    margin-left: -30px;
+
+}
+.skysai6>.saippu>img{
+    width: 930PX;
+    margin-left: -30px;
+}
+.skysai7>.saires>img{
+    width: 930PX;
+    margin-left: -30px;
+}
+.skysai8>.saicom>img{
+    width: 930PX;
+    margin-left: -30px;
+
+}
+}
+
+
+
+@media screen and (min-width:426px) and (max-width:769px){
+
+
+
+    .nav-bar-border{
+        width: 100vw;
+    }
+
+    .sproject{
+        margin-left: -250px;
+        
+    }
+    .saii{
+        margin-left: -250px;
+    
+    }
+    .sgroup{
+        margin-left:10px;
+    }
+    .sgroup2{
+        margin-left: 10px;
+        width:400px;
+        height:300px;
+        
+    }
+  .sgroup3{
+        
+        margin-left: -10px;
+    }
+   
+.sairam{
+    width: 350px;
+    height: 500px;
+}
+
+.rocky>p{
+    width: 170px;
+    
+}
+.sgroup4>img{
+    width:350px;
+    padding-top: 450px;
+    margin-left: -30px;
+    height:1000px;
+}
+.bhai{
+    padding-top: 450px;
+    height: 300px;
+    width: 240px;
+     margin-left: -50px;
+     
+}
+.lallu{
+    padding-top: 450px;
+    margin-left: -50px;
+}
+.lallu1{
+    margin-left: -50px;
+}
+.sgroup7{
+    margin-left:10px;
+    width: 200px;
+}
+.sgroup8>img{
+    width: 298px;
+    height: 650px;
+}
+.sgroup10>img{
+    width:400px;
+    height:600px;
+    margin-left: -50px;
+}
+.sky2{
+    margin-left: 10px;
+}
+.sky3>img{
+    width:405px;
+    height:600px;
+}
+.sky5>img{
+    padding-top: 30px;
+    margin-left:-30px;
+    width:405px;
+    height:650px;
+}
+.sky6{
+    margin-left: -80px;
+    width:400px;
+}
+.sky9>img{
+    width:370px;
+    height:500px;
+    padding-left: -30px;
+}
+.sky11>img{
+    width: 400px;
+    margin-left: 20px;
+    padding-top: 30px;
+}
+.sky12{
+    margin-left: -10px;
+}
+.sky14{
+    margin-left: 20px;
+
+}
+.sky15>img{
+    width:400px;
+    padding-top: 30px;
+    margin-left: -80px;
+    height: 500px;
+
+}
+.sky17>img{
+    
+        margin-left: -20px;
+}
+.sky20{
+    margin-left: 25px;
+
+}
+.sky21>img{
+    margin-left:-30px;
+    width:400px;
+
+}
+.sky23>img{
+    margin-left:20px;
+    padding-top: 30px;
+    width: 400px;
+    height: 450px;
+
+}
+.sky24{
+margin-left: -40px;
+}
+.skysai>.sai3>img{
+    width: 325px;
+    height:200px;
+}
+.skysai>.sai4>img{
+    width: 325px;
+    height:200px;
+}
+.skysai>.sai5>img{
+    width: 325px;
+    height:200px;
+}
+.skysai>.sai6>img{
+    width: 325px;
+    height:200px;
+}
+.skysai1>.saisteel>img{
+    width: 325px;
+    height:200px;
+}
+.skysai1>.saisteel1>img{
+    width: 325px;
+    height:200px;
+}
+.skysai2>.sairef1>img{
+    width: 325px;
+    height:200px;
+}
+.skysai2>.sairef2>img{
+    width: 325px;
+    height:200px;
+}
+.skysai3>.saipet>img{
+    width: 325px;
+    height:200px;
+}
+.skysai4>.saipow1>img{
+    width: 325px;
+    height:200px;
+}
+.skysai4>.saipow2>img{
+    width: 325px;
+    height:200px;
+}
+.skysai5>.saiwat>img{
+    width: 661px;
+    height:394px;
+}
+.skysai6>.saippu>img{
+    width: 661px;
+    height:394px;
+}
+.skysai7>.saires>img{
+    width: 661px;
+    height:394px;
+}
+.skysai8>.saicom>img{
+    width: 661px;
+    height:394px;
+}
+}
+
+
+@media screen and (max-width:426px){
+
+
+    .nav-bar-border{
+        width: 100vw;
+    }
+
+
+   .sproject{
+    margin-left: -400px;
+    color: white;
+     /* width: 390px;  */
+   }
+
+   .saii{
+    margin-left: -400px; 
+   }
+    .sbg{
+         width: 426px; 
+    }
+    .rocky>p{
+        margin-left: -30px;
+         width: 300px;
+        text-align: justify;
+    }
+    .sgroup{
+        margin-left: -30px;
+    }
+.sairam{
+      margin-left: -500px; 
+    padding-top: 530px;
+     width: 300px;  
+}
+.sgroup4>img{
+    margin-left: -40px;
+    width: 300px;
+    
+}
+.sgroup6{
+    margin-left: -400px;
+    padding-top:370px ;
+}
+.sgroup7{
+    margin-left: 0px;
+}
+ .sgroup8>img{
+    width:300px;
+    margin-left: -150px;
+    
+} 
+.sgroup9{
+    display:block;
+}
+.sgroup10>img{
+    width:300px;
+    padding-top: 30px;
+    margin-left: -60px;
+}
+.sky1{
+    display: block;
+}
+.sky3>img{
+    margin-left: -70px;
+    width:350px;
+}
+.sky2{
+    margin-left: -10px;
+}
+.sky4{
+    display: block;
+}
+.sky5>img{
+    width:300px;
+    padding-top: 30px;
+    margin-left: -30px;
+}
+.sky6{
+    margin-left: -150px;
+
+}
+.sky7{
+    display: block;
+}
+.sky8{
+    padding-top: 70px;
+    margin-left: 10px;
+}
+.sky9>img{
+    width: 300px;
+    margin-left: -80px;
+}
+.sky10{
+    display: block;
+}
+.sky11>img{
+    width:300px;
+    padding-top:70px ;
+    margin-left: 10px;
+}
+.sky12{
+    margin-left: -70px;
+}
+.sky13{
+    display:block;
+}
+.sky14{
+    margin-left: 10px;
+    padding-top: 70px;
+}
+.sky15>img{
+    width:300px;
+    margin-left: -80px;
+}
+.sky16{
+    display:block;
+
+}
+.sky17{
+    padding-top: 70px;
+}
+.sky18{
+    margin-left: 30px;
+}
+.sky19{
+    display: block;
+}
+.sky20{
+    margin-left: 30px;
+    padding-top: 70px;
+
+}
+.sky21>img{
+    width: 300px;
+    margin-left: -50px;
+
+}
+.sky22{
+    display:block;
+}
+.sky23>img{
+    width:300px;
+    padding-top: 70px;
+}
+.sky24{
+    margin-left: -80px;
+}
+.sai1{
+    margin-left: 70px;
+}
+.skysai>.sai3>img{
+    width:352px;
+    height: 192px;
+    
+}
+.sai3{
+    display: block;
+    margin-left: -30px;
+}
+.skysai>.sai4>img{
+    width:352px;
+    height: 192px;
+    
+}
+.sai4{
+    display: block;
+    margin-left: -30px;
+}
+.skysai>.sai5>img{
+    width:352px;
+    height: 192px;
+    
+}
+.sai5{
+    display: block;
+    margin-left: -30px;
+}
+.skysai>.sai6>img{
+    width:352px;
+    height: 192px;
+    
+}
+.sai6{
+    display: block;
+    margin-left: -30px;
+}
+.skysai1>.saisteel>img{
+    width:352px;
+    height: 192px;
+    
+}
+.saisteel{
+    display: block;
+    margin-left: -30px;
+}
+.skysai1>.saisteel1>img{
+    width:352px;
+    height: 192px;
+    
+}
+.saisteel1{
+    display: block;
+    margin-left: -30px;
+}
+
+.skysai2>.sairef1>img{
+    width:352px;
+    height: 192px;
+    
+}
+.sairef1{
+    display: block;
+    margin-left: -30px;
+}
+.skysai2>.sairef2>img{
+    width:352px;
+    height: 192px;
+    
+}
+.sairef2{
+    display: block;
+    margin-left: -30px;
+}
+.skysai3>.saipet>img{
+    width:352px;
+    height: 192px;
+    
+}
+.saipet{
+    display: block;
+    margin-left: -30px;
+}
+.skysai4>.saipow1>img{
+    width:352px;
+    height: 192px;
+    
+}
+.saipow1{
+    display: block;
+    margin-left: -30px;
+}
+.skysai4>.saipow2>img{
+    width:352px;
+    height: 192px;
+    
+}
+.saipow2{
+    display: block;
+    margin-left: -30px;
+}
+.skysai5>.saiwat>img{
+    width:352px;
+    height: 210px;
+    margin-left: -30px;
+
+}
+.skysai6>.saippu>img{
+    width:352px;
+    height: 210px;
+    margin-left: -30px;
+
+    
+}
+.skysai7>.saires>img{
+    width:352px;
+    height: 210px;
+    margin-left: -30px;
+
+    
+}
+.skysai8>.saicom>img{
+    width:352px;
+    height: 210px;
+    margin-left: -30px;
+
+}
+
+
+}

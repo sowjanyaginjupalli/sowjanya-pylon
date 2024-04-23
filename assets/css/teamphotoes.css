@@ -1,0 +1,35 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.bharath{
+    height: 70vh;
+    width: 19vw;
+    margin-top: 3%;
+    
+}
+
+    
+
+
+.back-team{
+    display: flex;
+}
+
+.bharath-1{
+    padding-left: 60px;
+}
+
+.back-team{
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+.teamsss{
+    text-align: center;
+    text-decoration: none;
+    color: brown;
+}

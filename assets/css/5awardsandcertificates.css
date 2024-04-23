@@ -1,0 +1,167 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+
+
+
+
+
+.Certificates-head{
+    text-align: center;
+    color: darkblue;
+    font-size:40px;
+    padding-top: 2%;
+}
+
+.background-blue{
+background-color: rgb(8, 8, 74);
+    
+   height: 10vh;
+   width: 28.5vw;
+   margin-bottom: 3% ;
+   
+  
+}
+
+.background-blue1{
+    background-color: rgb(8, 8, 74);
+        
+       height: 10vh;
+       width: 20.7vw;
+       margin-bottom: 3% ;
+       
+      
+    }
+
+
+
+
+
+
+
+.blue-no{
+    color: white;
+    text-align: center;
+    padding-top: 3%;
+}
+
+
+.image-flex{
+    display: flex;
+}
+
+.box1{
+    margin-left: 2%;
+    margin-top: 2%;
+    margin-right: 2%;
+    margin-bottom: 2%;
+}
+
+
+
+.imager{
+    width:20vw;
+}
+
+.two-sides{
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+
+.jcb-background{
+    background-image: url(/Assets/uploads/images/hitachi-2.jpg);
+    background-size:cover;
+   background-position:left;
+   background-repeat: no-repeat;
+   height: 60vh;
+   text-align: center;
+   
+}
+.jcb-heading{
+    color:white;
+    padding-top: 140px;
+    font-size: xx-large;
+    font-size: 50px;
+}
+
+.jcb-a{
+    color: white;
+    text-decoration: none;
+    font-size:x-large;
+    
+    
+}
+.jcb-top{
+    padding-top:10px;
+}
+
+@media screen and (min-width:769px) and (max-width:1025px) {
+
+
+    .image-1{
+        width: 290px;
+    }
+    .background-blue{
+        width: 286px;
+    }
+
+    .background-blue1{
+     width:205px;
+    }
+    
+}
+
+
+@media screen and (min-width:426px) and (max-width:769px){
+    .image-1{
+        width: 218px;
+    } 
+
+    .background-blue{
+        width: 217px;
+    }
+
+    .background-blue1{
+        width:153px;
+       }
+       
+}
+
+@media screen and (max-width:426px) {
+    .image-1{
+        width:350px;
+        margin-left: 20px;
+    } 
+
+    .background-blue{
+        width: 350px;
+        padding-top: 15px;
+        margin-left: 20px;
+    }
+
+    .background-blue1{
+        width:350px;
+        padding-top: 15px;
+        margin-left: 20px;
+       }
+       
+       .jcb-heading{
+        font-size: 35px;
+       }
+       
+       .image-flex{
+        display: block;
+       }
+       .imager{
+        width: 350px;
+        margin-left: 20px;
+       }
+
+    
+}

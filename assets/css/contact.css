@@ -1,0 +1,238 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.bagd-contact{
+    background-image: url("/assets/uploads/images/hitachi-2.jpg");
+
+    background-repeat: no-repeat;
+   
+    background-size: cover;
+    background-position: center;
+    height: 60vh;
+    text-align: center;
+    padding-top: 50px;
+    
+    }
+.contact{
+    font-weight: bold;
+    color: white;
+    font-size: 40px;
+}
+
+
+     .bagd-contact>h1{
+
+    font-size: 50px;
+    text-align: center;
+    padding-top: 50px;
+    
+    }
+ .bagd-contact>h5{
+    text-align: center;
+    padding-bottom:100px;
+    } 
+address{
+    width: 140px;
+ }
+.get{
+    
+    border: 2px solid;
+    width: 40%;
+    margin-top: 40px;
+    margin-left: 100px;
+    background-color: #050539;
+    margin-bottom: 20px;
+    height:110vh ;
+    padding-top: 100px;
+    padding-left: 30px;
+    color: white;
+    
+}
+.center{
+    padding-left:25px ;
+    font-size: 40px;
+
+}
+.para{
+    padding-left: 18px;
+    /* font-size: 15px; */
+    /* display: flex; */
+}
+
+.phone{
+padding-top: 80px;
+}
+.holder{
+    width:20px ;
+    height:20px ;
+}
+.call{
+    width:20px ;
+    height:20px ;
+}
+.map1{
+  
+   text-decoration: none;
+   color: red;
+}
+
+.form{
+    display: flex;
+}
+.logo1{
+    width:20px ;
+    height:20px ;
+}
+.support{
+    padding-top: 120px;
+   
+}
+.envelope{
+    width:20px ;
+    height:20px ;
+   
+}
+.logo2{
+    padding-top:150px ;
+    padding-right: 40px;
+}
+.form2{
+   border: 1px solid  rgb(245, 240, 240) ;
+   margin-top: 40px;
+   margin-left: 30px;
+   height: 110vh;
+   padding-top: 100px;
+   width:40% ;
+   text-align: center;
+   .talk{
+    color: black;
+   }
+  
+
+}
+.stotal{
+    display: flex;
+}
+.place{
+    width: 80%;
+    height: 40px;
+    padding-left: 10px;
+    border-radius: 6px;
+    border: 1px solid white;
+}
+.place1{
+    width:80% ;
+    padding-left:10px ;
+    padding-top: 15px;
+    border-radius: 6px;
+    border: 1px solid white;
+}
+
+.submit{
+    width: 30%;
+    height: 50px;
+    border-radius: 50px;
+    background-color: #f14141;
+    border: 1px solid #f14141;
+}
+.form2{
+    background-color: #e2efef;
+}
+.home{
+    font-size: 19px;
+  
+    color: white;
+    padding-top: 20px;
+}
+.home1{
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+  
+}
+.enquiry{
+color: red;
+}
+.home1:hover{
+    color: red;
+}
+.ggg :hover{
+color: white;
+}
+@media screen and (min-width:769px) and (max-width:1025px){
+    .get{
+        height:150vh ;
+        margin-left: -6;
+        width:38% ;
+    }
+    .form2{
+        height:150vh ;
+    }
+    .logo2{
+        padding-top: 150px;
+    }
+    .support{
+        padding-top:200px ;
+    }
+    .home1:hover{
+        color: red;
+    }
+}
+@media screen and (min-width:426px) and (max-width:769px){
+
+    .get{
+        height:149vh ;
+        margin-left: 10px;
+        width:49% ;
+    }
+    .form2{
+        height: 145vh;
+        margin-right: 10px;
+        width:48% ;
+    }
+    .support{
+          padding-top:200px ; 
+    } 
+    .logo2{
+        padding-top:160px ;
+    }
+    .home1:hover{
+        color: red;
+    }
+  } 
+    @media screen and (max-width:426px){
+        .get{
+            display: inline-block;
+            height:157vh ;
+            width:85% ;
+            margin-left: 30px;
+        }
+        .form2{
+            height:150vh ;
+            width:85% ;
+        }
+        .stotal{
+            display: block;
+        }
+        .para{
+            padding-left: 0px;
+        }
+        .map1{
+            padding-right: 10px;
+        }
+        .support{
+            padding-top: 200px;
+        }
+        .logo2{
+            padding-top: 160px;
+        }
+        .home1:hover{
+            color: red;
+        }
+
+}
+   
+

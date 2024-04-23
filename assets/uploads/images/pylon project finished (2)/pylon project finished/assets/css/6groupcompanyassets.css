@@ -1,0 +1,129 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+
+
+
+.jcb-background{
+    background-image: url(/Assets/uploads/images/hitachi-2.jpg);
+    background-size:cover;
+   background-position:left;
+   background-repeat: no-repeat;
+   height: 60vh;
+   text-align: center;
+   
+}
+.jcb-heading{
+    color:white;
+    padding-top: 140px;
+    font-size: xx-large;
+    font-size: 50px;
+}
+
+.jcb-a{
+    color: white;
+    text-decoration: none;
+    font-size:x-large;
+    
+    
+}
+.jcb-top{
+    padding-top:10px;
+}
+
+
+
+
+
+
+.group-text{
+    text-align: center;
+    padding-top: 2%;
+    color: darkblue;
+}
+.table-border,th,td{
+    border: 1px solid rgb(200, 209, 218)   ;
+    border-collapse: collapse;
+    width: 550px;
+    text-align: center;
+    font-size: 15px;
+    color:lightslategrey;
+}
+.table-border,th{
+    color: rgb(112, 119, 126);
+    font-size: large;
+}
+
+.table-border,td{
+    padding-top: 1%;
+}
+
+.table-flex{
+    display: flex;
+}
+.table-padding{
+    padding-left: 2%;
+    padding-bottom: 3%;
+}
+.table-padding-bottom{
+    padding-bottom: 3%;
+}
+
+.table-padding-top-left{
+    padding-left: 5%;
+    padding-top: 2%;
+}
+
+.table-border,th{
+    height: 40px;
+}
+
+@media screen and   (min-width:769px) and (max-width:1025px)  {
+    .table-border{
+        width: 450px;
+    }
+
+    .group-text{
+        font-size: 40px;
+    }
+    
+}
+
+@media screen and  (min-width:426px) and (max-width:769px) {
+   
+#table-rock{
+    width:340px;
+}
+
+.group-text{
+    font-size: 30px;
+}
+
+}
+
+@media  screen and (max-width:426px) {
+    .table-flex{
+        display: block;
+    }
+
+
+    .table-border{
+        width:390px;
+    }
+
+    .jcb-heading{
+        font-size: 40px;
+     
+        
+    }
+
+    .group-text{
+        font-size: 20px;
+    }
+
+}
+

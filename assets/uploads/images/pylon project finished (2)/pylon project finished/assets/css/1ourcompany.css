@@ -1,0 +1,144 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+
+.jcb-background{
+    background-image: url(/Assets/uploads/images/hitachi-2.jpg);
+    background-size:cover;
+   background-position:left;
+   background-repeat: no-repeat;
+   height: 60vh;
+   text-align: center;
+   
+}
+.jcb-heading{
+    color:white;
+    padding-top: 140px;
+    font-size: xx-large;
+    font-size: 50px;
+}
+
+.jcb-a{
+    color: white;
+    text-decoration: none;
+    font-size:x-large;
+    
+    
+}
+.jcb-top{
+    padding-top:10px;
+}
+
+
+
+
+
+
+.hitech-flex{
+    display: flex ;
+    padding-left: 4%;
+    padding-right: 4%;
+    padding-top: 2%;
+    
+    
+}
+.hitech{
+    height: 140px;
+    padding-right:1%;
+    width: 100%;
+   
+   
+}
+.hitech-padding{
+    padding-left:4%;
+    padding-right: 4%;
+   
+}
+
+.ul-padding{
+    padding-left: 1%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
+  
+
+.last-para{
+    padding-bottom: 1%;
+}
+
+.last-6{
+    padding-left: 1%;
+    padding-bottom: 2%;
+    font-size: 25px;
+}
+
+
+.head-color{
+    color: blue;
+}
+
+.rocks1{
+    font-size: 20px;
+}
+
+.ul-padding{
+    font-size: 20px;
+}
+
+.head-color{
+    font-size: 30px;
+}
+
+.para2{
+    font-size: 25px;
+}
+
+
+
+
+@media screen   and (min-width:769px) and (max-width:1025px) {
+
+    .rocks1{
+        text-align: justify;
+    }
+    .nav-bar-border{
+        width: 100vw;
+    }
+}
+
+@media screen   and (min-width:426px) and (max-width:769px) {
+
+    .rocks1{
+        text-align: justify;
+    }
+    .nav-bar-border{
+        width: 100vw;
+    }
+}   
+
+
+
+@media screen   and (max-width:426px) {
+
+    .rocks1{
+        text-align: justify;
+    }
+
+    .hitech{
+        height: 329px;
+        width: 200px;
+    }
+    .nav-bar-border{
+        width: 100vw;
+    }
+
+    
+}
+
+

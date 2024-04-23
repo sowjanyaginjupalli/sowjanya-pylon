@@ -1,0 +1,222 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+ /* header section */
+
+ 
+.header-border{
+    
+    background-color: rgb(27, 27, 36);
+    height:50px;
+    padding-top: 10px;
+
+   
+    
+}
+.header-img{    
+
+   display: inline;
+    padding: 10px;
+}   
+
+.img1{
+    width: 20px;
+    height: 20px;
+       
+}
+.header-text{
+    display: inline;
+    color   :white;
+    height:10px;
+    width: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.header-icon{
+    display: inline;
+    padding:15px;
+    
+
+}
+.img2{
+    width: 15px;
+    height: 15px;
+    
+    
+}
+.float-left{
+    float:right;
+    padding-top:4px;
+}
+
+/* navbar styles */
+
+
+
+.dropdown{
+    position: relative;
+    display: inline-block;
+    
+    
+}
+.dropdown-content{
+    
+    display:none;
+    position: absolute;
+    min-width:220px;
+    height: 250px;
+    box-shadow: 0px 8px 16px 0px;
+    padding: 12px,16px;
+    z-index: 1;
+    margin-top: 5px;
+    background-color:white;
+
+    
+                                                                                                                                                                                                                                  ;
+
+}
+
+.dropdown:hover .dropdown-content{
+    display: block;
+
+}
+
+.dropdown-content>p{
+    padding:10px;
+    
+}
+.drop-text{
+    text-decoration:none;
+    color: black;
+    padding-left: 10px;
+}
+
+.pylon-img{
+   padding-left: 5%;
+   padding-top: 2%;
+   padding-right: 5%;
+   
+}
+
+
+
+
+.nav-bar{
+    padding-left: 10px;
+    padding-right: 10px;
+    text-decoration: none;
+    font-size:20px;
+    color: rgb(7, 6, 6);
+    
+    
+    
+}
+.button11{
+    text-decoration: none;
+    color: white;
+}
+
+.button{
+    padding: 1px;
+    border: 2px solid orangered;
+    width: 140px;
+    height: 40px;
+    border-radius: 20px;
+    background-color: orangered;
+    color: white;
+    font-size: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}   
+.padding-top{
+    display:inline;
+   
+   
+   
+     
+    
+
+}
+
+.nav-bar-border{
+    position: sticky;
+    top: 0px;
+    height: 15vh;
+    background-color:rgb(242, 243, 242);
+   
+  
+    padding-bottom: 9%;
+}
+
+.team402{
+    color:rgb(227, 80, 16);
+    text-align: center;
+    font-style: italic;
+    font-weight: bolder;
+    background-color:color-mix(in hsl shorter hue, color percentage, color percentage);
+   
+}
+
+.rocknrock{
+    text-decoration: none;
+    color: brown;
+}
+
+@media screen and (min-width:769px) and (max-width:1025px) {
+
+    .nav-bar{
+        font-size: 16px;
+        padding: 20px;
+        
+    }
+
+    .nav-bar-border{
+        height:30vh;
+    }
+    
+}
+
+@media screen  and (max-width:426px) {
+    .last-one-done{
+        display: none;
+    }
+
+    .header-border{
+        display: none;
+    }
+
+    .nav-bar-border{
+        display: none;
+    }
+    
+}
+
+
+
+
+
+
+
+@media screen and (min-width:426px) and (max-width:769px) {
+
+    .nav-bar{
+        font-size: 15px;
+        
+        
+    }
+
+    .nav-bar-border{
+        height:30vh;
+    }
+    
+ .button{
+    margin-left: 45px;
+ }
+    
+       
+    
+}

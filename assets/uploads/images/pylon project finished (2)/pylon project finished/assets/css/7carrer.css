@@ -1,0 +1,59 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+
+
+
+.jcb-background{
+    background-image: url(/Assets/uploads/images/hitachi-2.jpg);
+    background-size:cover;
+   background-position:left;
+   background-repeat: no-repeat;
+   height: 60vh;
+   text-align: center;
+   
+}
+.jcb-heading{
+    color:white;
+    padding-top: 140px;
+    font-size: xx-large;
+    font-size: 50px;
+}
+
+.jcb-a{
+    color: white;
+    text-decoration: none;
+    font-size:x-large;
+    
+    
+}
+.jcb-top{
+    padding-top:10px;
+}
+
+
+
+.carrer-vani{
+    text-align: center;
+    margin-top: 3%;
+    margin-bottom:3%;
+    font-size: 20px;
+    font-weight: 200;
+}
+
+
+.vani-hover:hover{
+    color: red;
+}
+
+
+
+.vani-hover{
+    font-size: 20px;
+    font-weight: 200;
+}
+

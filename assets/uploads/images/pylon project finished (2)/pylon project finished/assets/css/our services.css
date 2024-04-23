@@ -1,0 +1,429 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.background-img{
+
+    background-image: url("/Assets/Uploads/Images/hitachi-2.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+   
+    text-align: center;
+    width: 100%;
+    padding-top: 200px;
+    background-position: center;
+    height: 60vh;
+    color:red;
+    font-size: 30px;
+    background-attachment: scroll;
+}
+
+.background-img>strong{
+font-size: 30px;
+padding-top: 500px;
+
+}
+.spara > span{
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+}
+.service2{
+    color: red;
+    font-size:50px ;
+}
+.background-img>p{
+    font-size: 17px;
+    padding-bottom: 80px;
+}
+
+.imagess{
+    display: flex;
+     text-align: center;
+    margin-left: -80px; 
+}
+
+h1{
+    text-align: center;
+   
+
+}
+
+
+.services{
+     
+    height: 50px;
+    text-align: center;
+    margin-left: 80px;
+    
+    margin-top: 80px;
+    margin-bottom: 630px;
+
+ 
+  
+    
+
+}
+
+.cement{
+    
+    display: flex;
+ 
+    
+}
+.petro{
+    
+    display: flex;
+   
+    
+}
+.real{
+    
+    display: flex;
+}
+.real-estate img,.Warehousing img,.Data img{
+    width: 350px;
+   
+    
+}
+.real-estate,.Warehousing,.Data{
+    margin-left: 20px;
+   
+}
+.chemicals,.power-plant,.water-plant{
+    margin-left: 20px ;
+}
+.chemicals img,.power-plant img,.water-plant img{
+    width: 350px;
+}
+.cement-plant,.steel-plant,.refinery-plant{
+    margin-left: 20px;
+}
+.cement-plant img,.steel-plant img,.refinery-plant img{
+    width: 350px;
+}
+
+     
+
+.shom1:hover{
+    color: red;
+
+}
+
+.cement-plant:hover,.steel-plant:hover,.refinery-plant:hover,.chemicals:hover,.power-plant:hover,.water-plant:hover,.real-estate:hover,.Warehousing:hover,.Data:hover{
+ transform: scale(0.5,0.5);
+ 
+}
+
+
+
+
+.heading-2{
+    color: white;
+    margin-top: -150px;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.shom1{
+    color: white;
+    
+    font-weight: bold;
+    text-decoration: none;
+    font-size:30px;
+}
+
+.sowbox1{
+    
+    background-color: whitesmoke;
+    width: 300px;
+    height: 200px;
+    border: 1px solid white;
+    
+    border-radius: 5px;
+   
+    margin-left: 280px;
+    display: flex;
+    
+} 
+
+.img-inline{
+    margin-top: 50px;
+    margin-left: 120px;
+    height: 70px;
+    width: 70px;
+    margin-bottom: 80px;
+}
+.sowh1{
+    margin-left: -100px;
+    margin-top: 130px;
+} 
+.sowbbox2{
+
+    background-color: orangered;
+    width: 300px;
+    height: 200px;
+    border: 1px solid orangered;
+    padding: 50px;
+    margin-top: -20px;
+    margin-left: 0px;
+    border-radius: 5px;
+    
+    
+
+
+}
+.img-inline1{
+    margin-top: 0px;
+    margin-left: 20px;
+    height: 70px;
+    width: 70px;
+    margin-bottom: 80px;
+    padding-left:px ;
+    .sowh1{
+        margin-left: ;
+        margin-top: -40px;
+    }
+
+}
+.sowh2{ 
+    margin-left: 10px;
+    margin-top: -80px;
+}
+.sowbox3{
+    
+    background-color: whitesmoke;
+    width: 300px;
+    height: 200px;
+    border: 1px solid white;
+    padding: 50px;
+    margin-top: -3px;
+    margin-left: 0px;
+    border-radius: 5px;
+}
+
+.img-inline2{
+    margin-top: 0px;
+    margin-left: 0pxpx;
+    height: 70px;
+    width: 70px;
+    margin-bottom: 80px;
+}
+.sowh3{ 
+    margin-left: 10px;
+    margin-top: -80px;
+}
+.core{
+    font-weight: bolder;
+    color: blue;
+    font-size: 30px;
+}
+
+@media screen and (min-width:769px) and (max-width:1025px){
+
+    .nav-bar-border{
+        width: 100vw;
+    }
+
+   
+  .sowbox1{
+    
+    margin-left: 140px;
+  }
+  .cement-plant img,.steel-plant img,.refinery-plant img{
+    width: 300px;
+}
+.cement{
+    margin-right: 120px;
+    margin-left: -60px;
+}
+.chemicals img,.power-plant img,.water-plant img{
+    width: 300px;
+}
+.petro{
+    margin-right: 120px;
+    margin-left: -60px;
+}
+.real-estate img,.Warehousing img,.Data img{
+    width: 300px;
+}
+   
+.real{
+    margin-right: 120px;
+    margin-left: -60px;
+}
+.cement-plant:hover,.steel-plant:hover,.refinery-plant:hover,.chemicals:hover,.power-plant:hover,.water-plant:hover,.real-estate:hover,.Warehousing:hover,.Data:hover{
+    transform: scale(0.5,0.5);
+}
+.shom1:hover{
+    color: red;
+}
+    
+
+
+}
+
+
+@media screen and (min-width:426px) and (max-width:769px){
+
+    .nav-bar-border{
+        width: 100vw;
+    }
+
+background-img{
+        width:500px ;
+    }  
+    .sowbox1{
+          margin-left:160px;  
+       width: 200px;  
+      } 
+      .img-inline{
+        margin-left:70px ;
+      }
+      .sowbbox2{
+        width: 200px;
+      }
+      .sowbox3{
+        width: 200px;
+      }
+      .cement-plant img,.steel-plant img,.refinery-plant img{
+        width: 200px;
+    }
+    .cement{
+        margin-right: 120px;
+        margin-left: -40px;
+    }
+    .chemicals img,.power-plant img,.water-plant img{
+        width: 200px;
+    }
+    .petro{
+        margin-right: 120px;
+        margin-left: -40px;
+    }
+    
+.real-estate img,.Warehousing img,.Data img{
+    width: 200px;
+   }
+   .real{
+    margin-right: 120px;
+        margin-left: -40px;
+    }
+    .cement-plant:hover,.steel-plant:hover,.refinery-plant:hover,.chemicals:hover,.power-plant:hover,.water-plant:hover,.real-estate:hover,.Warehousing:hover,.Data:hover{
+        transform: scale(0.5,0.5);
+    }
+    .shom1:hover{
+        color: red;
+    }
+                
+
+   }
+
+   @media screen and (max-width:426px){
+
+    .nav-bar-border{
+        width: 100vw;
+    }
+
+    .background-img{
+        background-image: cover;
+        display:block;
+      
+    }
+    
+
+
+.cement{
+    display: block;
+}
+.petro{
+    display: block;
+}
+.real{
+    display: block;
+}
+.imagess{
+    display: block;
+    margin-top: 40px;
+}
+.sowbox1{
+   
+    height:40vh ;
+    width:70% ;
+    margin-left: 120px;
+    text-align:center;
+    text-align:center;
+    margin-top: -40px;
+
+}
+.img-inline{
+    margin-left: 140px;
+    margin-top: 60px;
+}
+.sowh1{
+    margin-top: 140px;
+    margin-left: -100px;
+
+}
+
+.sowbbox2{
+    width: 70%;
+    height: 40vh;
+    margin-top: 30px;
+    margin-left:120px ;
+}
+.sowbox3{
+    width:70% ;
+    height:40vh;
+    margin-top: 30px;
+    margin-left:120px ;
+
+
+}
+.cement{
+    margin-left: -100px;
+}
+.petro{
+    margin-left: -100px;
+
+}
+.real{
+    margin-left: -100px;
+
+
+}
+.background-img >spara{
+    margin-top: -50px;
+}
+.cement-plant:hover,.steel-plant:hover,.refinery-plant:hover,.chemicals:hover,.power-plant:hover,.water-plant:hover,.real-estate:hover,.Warehousing:hover,.Data:hover{
+    transform: scale(0.5,0.5);
+}
+.shom1:hover{
+    color: red;
+}
+
+
+}
+
+   
+   
+
+   
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+   
+
+
